@@ -1,5 +1,5 @@
 //se importa la funcion que esta dentro de la carpeta modulos y el archivo
-import {saludoPersonalizado} from './modulos/1_saludo.js';
+import {saludoPersonalizado} from '../modulos/1_saludo.js';
 //se piden los datos al usuario
 let nomb = prompt("Ingrese su nombre: ");
 let edad = prompt("Ingrese su edad: ");
